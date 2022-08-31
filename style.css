@@ -1,0 +1,17 @@
+.selected-border {
+  border: 5px solid cyan;
+}
+
+.font-special {
+  font-family: 'Qwitcher Grypen', cursive;
+  font-size: 32pt;
+}
+
+h4.font-special {
+  font-family: 'Qwitcher Grypen', cursive;
+  font-size: 56pt;
+}
+
+.no-margin {
+  margin: 0 !important;
+}
